@@ -13,3 +13,8 @@ front-end, the sourcing operations employee can now go to one webpage and search
 familiar with dozens of different websites.
 
 The web crawler was developed based on https://scrapy.org/, written in Python, and run on an AWS EC2 instance.
+
+Due to an NDA with TomTom, I can't share any of the source code, but I have provided screenshots of the front end.
+
+![Alt text](/screenshots/search.PNG)     ![Alt text](/screenshots/results.PNG)
+![Alt text](/screenshots/results2.PNG)
