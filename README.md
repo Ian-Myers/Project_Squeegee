@@ -16,6 +16,5 @@ The web crawler was developed based on https://scrapy.org/, written in Python, a
 
 Due to an NDA with TomTom, I can't share any of the source code, but I have provided screenshots of the front end.
 
-![Alt text](/screenshots/search.png) | width = 1000
+![Alt text](/screenshots/search.png)
 ![Alt text](/screenshots/results.png)
-![Alt text](/screenshots/results2.png)
