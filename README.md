@@ -14,7 +14,7 @@ familiar with dozens of different websites.
 
 The web crawler was developed based on https://scrapy.org/, written in Python, and run on an AWS EC2 instance.
 
-I have provided screenshots and sample code files for viewing.
+I have provided screenshots of the UI. In addition, I have uploaded the python file for the custom web crawler and JavaScript files for the front endsample .
 
 ![Alt text](/search.png)
 ![Alt text](/results.png)
